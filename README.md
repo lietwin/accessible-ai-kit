@@ -7,7 +7,7 @@
 
 ## ❤️ What we believe
 
-I believe AI knowledge belongs to everyone, professionals, educators, NGO workers, students, and curious minds alike.
+AI knowledge belongs to everyone, professionals, educators, NGO workers, students, and curious minds alike.
 
 At the **ACAI Initiative** (Accessible AI), we’re making AI education as natural and energizing as its namesake superfood:  
 **nourishing, modular, and easy to engage with**.
